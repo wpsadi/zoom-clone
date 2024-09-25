@@ -3,9 +3,6 @@ import React from 'react';
 import {
   Sheet,
   SheetContent,
-  SheetDescription,
-  SheetHeader,
-  SheetTitle,
   SheetClose,
   SheetTrigger,
 } from "@/components/ui/sheet";

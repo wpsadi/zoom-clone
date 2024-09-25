@@ -1,9 +1,9 @@
-import Image from 'next/image'
+
 import Link from 'next/link'
 import React from 'react'
 import Logo from "@/assets/icons/logo.svg"
 import MobileNav from './MobileNav'
-import { ClerkProvider, SignInButton, SignedIn, SignedOut, UserButton } from '@clerk/nextjs'
+import {  SignInButton, SignedIn, SignedOut, UserButton } from '@clerk/nextjs'
 function Navbar() {
   return (
     <nav className="flex flex-between fixed z-50 w-full bg-dark-1 px-6 py-4 lg:px-10">

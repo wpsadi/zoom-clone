@@ -1,4 +1,4 @@
-import Image from 'next/image';
+
 import LoadingCircle from "@/assets/icons/loading-circle.svg"
 const Loader = () => {
   return (

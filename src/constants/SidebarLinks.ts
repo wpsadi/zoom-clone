@@ -1,4 +1,4 @@
-import { House, LucideProps,  History, Video, Computer,CalendarClock ,Plus } from 'lucide-react';
+import { House, LucideProps,  History, Video,CalendarClock ,Plus } from 'lucide-react';
 import { ForwardRefExoticComponent, RefAttributes } from 'react';
 
 interface SideLinks {
